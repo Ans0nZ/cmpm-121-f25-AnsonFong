@@ -18,6 +18,10 @@ Key workflows:
 - Manually testing your change locally.
 - Committing and pushing your change to your remote repository on GitHub, verifying that the deployment succeeds.
 - I finished my first section today, YaY!
+- This project was my first time going through a complete CI/CD pipeline for game development. I implemented:
+- Increasing a counter by 1 when clicking a button
+- Setting up a local development environment (Deno + VS Code)
+- Automatically deploying to GitHub Pages
 - Repeating the editing-to-publishing process to build familiarity with the overall workflow.
 
 ## Getting Started
